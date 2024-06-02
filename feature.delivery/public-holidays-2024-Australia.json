@@ -1,0 +1,93 @@
+{
+  "product": "Australia Public Holidays 2024",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-01T12:00:00",
+      "endDate": "2024-01-01T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Australia Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-01-26T12:00:00",
+      "endDate": "2024-01-26T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2024",
+      "style": "blue",
+      "description": "Celebration of Australia's national day"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-19T12:00:00",
+      "endDate": "2024-04-19T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2024",
+      "style": "purple",
+      "description": "Christian holiday commemorating the crucifixion of Jesus"
+    },
+    {
+      "title": "Easter Monday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-22T12:00:00",
+      "endDate": "2024-04-22T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2024",
+      "style": "yellow",
+      "description": "Public holiday following Easter Sunday"
+    },
+    {
+      "title": "Anzac Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-04-25T12:00:00",
+      "endDate": "2024-04-25T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2024",
+      "style": "teal",
+      "description": "Commemoration of Australian and New Zealand Army Corps"
+    },
+    {
+      "title": "Queen's Birthday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-06-10T12:00:00",
+      "endDate": "2024-06-10T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2024",
+      "style": "pink",
+      "description": "Celebration of the birthday of the reigning monarch of Australia"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-25T12:00:00",
+      "endDate": "2024-12-25T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2024",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus Christ"
+    },
+    {
+      "title": "Boxing Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2024-12-26T12:00:00",
+      "endDate": "2024-12-26T12:00:00",
+      "source": "Australian Government",
+      "product": "Australia Public Holidays 2024",
+      "style": "green",
+      "description": "Traditional day for giving gifts to employees"
+    }
+  ]
+}
